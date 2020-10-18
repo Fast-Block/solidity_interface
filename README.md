@@ -1,4 +1,4 @@
-##The interfaces for marking atomic sections
+## The interfaces for marking atomic sections
 
 `ParallelContract` is a system smart contract, which extends the solidity to to include a set of the code-level interfaces for marking the atomic sections and the conflict rules between them.
 
